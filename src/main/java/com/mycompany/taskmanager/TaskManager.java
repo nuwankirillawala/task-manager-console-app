@@ -24,4 +24,12 @@ public class TaskManager {
     public List<Task> getAllTasks(){
         return taskRepo.getAllTasks();
     }
+    
+    public Task getTaskById(int taskId) {
+        return taskRepo.getTaskById(taskId);
+    }
+    
+    public boolean deleteTask(int taskId) {
+        return taskRepo.deleteTask(taskId);
+    }
 }

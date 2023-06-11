@@ -1,0 +1,10 @@
+com\mycompany\taskmanager\TaskFactory$1.class
+com\mycompany\taskmanager\TaskType.class
+com\mycompany\taskmanager\TaskRepository.class
+com\mycompany\taskmanager\TaskStatus.class
+com\mycompany\taskmanager\UrgentTask.class
+com\mycompany\taskmanager\Main.class
+com\mycompany\taskmanager\RegularTask.class
+com\mycompany\taskmanager\Task.class
+com\mycompany\taskmanager\TaskFactory.class
+com\mycompany\taskmanager\TaskManager.class
